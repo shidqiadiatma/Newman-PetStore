@@ -2,8 +2,6 @@
 
 ---
 
-# **README.md**
-
 ## **Install Newman**
 
 Pastikan Node.js sudah terpasang:
