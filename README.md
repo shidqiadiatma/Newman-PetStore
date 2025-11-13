@@ -26,10 +26,7 @@ npm install -g newman newman-reporter-htmlextra
 Gunakan NPX untuk menjalankan collection tanpa instalasi lokal:
 
 ```bash
-npx newman run petstore.postman_collection \
-  -e petstore.postman_environment \
-  -r htmlextra \
-  -n 5
+npx newman run petstore.postman_collection -e petstore.postman_environment -r htmlextra -n 5
 ```
 
 ---
